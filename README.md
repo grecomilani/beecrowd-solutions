@@ -2,6 +2,8 @@
 
 Welcome to the Java BeeCrowd Solutions Project! This repository is dedicated to providing a comprehensive collection of algorithmic challenges, all elegantly solved using Java. Whether you're a budding programmer or an experienced developer, this project will serve as a valuable resource for honing your algorithmic and programming skills.
 
+:warning: The purpose of this project is to solve various algorithmic challenges presented on the [BeeCrowd](https://www.beecrowd.com.br) website. The [BeeCrowd](https://www.beecrowd.com.br) platform is **free** and offers questions in different languages, providing an opportunity to practice algorithm solving using a variety of programming languages.
+
 ## Project Overview
 
 In this repository, you'll discover a diverse range of algorithmic problems, meticulously solved using Java programming. Our goal is not only to showcase working code solutions but also to offer detailed explanations of the underlying logic and problem-solving strategies employed.
@@ -19,11 +21,13 @@ In this repository, you'll discover a diverse range of algorithmic problems, met
 
 1.  **Navigate Algorithms:** Browse through the neatly organized folders to find algorithm categories that intrigue you. Each algorithm's folder contains the problem statement, a Java solution file, and an accompanying explanation.
 
-2.  **Learn Strategies:** Dive into the provided explanations to gain insight into the strategic thinking behind each solution. Uncover the techniques that make these algorithms tick and apply them to your own projects.
+2.  **List of Algorithms:** You can access the list of all algorithms [here](./ALGORITHMS.md), which is a hyperlink directed to the [BeeCrowd](https://www.beecrowd.com.br) website. There, you will find the problem descriptions along with an integrated IDE environment to validate your solutions.
 
-3.  **Contribute Your Expertise:** If you've devised innovative algorithmic solutions or have enhancements to offer, we invite you to contribute. Let's collaborate to make this repository a go-to resource for Java algorithm enthusiasts.
+3.  **Learn Strategies:** Dive into the provided explanations to gain insight into the strategic thinking behind each solution. Uncover the techniques that make these algorithms tick and apply them to your own projects.
 
-4.  **Stay Connected:** Show your support by starring this repository. This will keep you informed about new additions and improvements to our collection of Java algorithm solutions.
+4.  **Contribute Your Expertise:** If you've devised innovative algorithmic solutions or have enhancements to offer, we invite you to contribute. Let's collaborate to make this repository a go-to resource for Java algorithm enthusiasts.
+
+5.  **Stay Connected:** Show your support by starring this repository. This will keep you informed about new additions and improvements to our collection of Java algorithm solutions.
 
 
 ## Join the Journey
