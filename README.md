@@ -33,3 +33,7 @@ Your journey towards mastering algorithms and refining your Java programming ski
 Happy coding and algorithm mastering!
 
 [GitHub Repository Link](https://github.com/GrecoLima/beecrowd-solutions)
+
+[BeeCrowd Site ](https://www.beecrowd.com.br)
+
+[List of algorithms](./ALGORITHMS.md)
